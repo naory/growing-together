@@ -1,4 +1,4 @@
-# Tzomchim Beyachad
+# Growing Together
 
 *Project description to be added*
 

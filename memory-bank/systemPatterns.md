@@ -1,4 +1,4 @@
-# System Patterns: Tzomchim Beyachad
+# System Patterns: Growing Together
 *Version: 1.0*
 *Created: 2026-01-04T19:46:57Z*
 *Last Updated: 2026-01-04T19:46:57Z*
