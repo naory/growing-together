@@ -4,7 +4,9 @@
 *Last Updated: 2026-01-04T19:46:57Z*
 
 ## Technology Stack
-*To be determined*
+# *Google spreadsheet* - collect contact details for referrers and volunteers
+# *Twillo* - local phone number 
+# *Vapi.ai* 
 
 ## Development Environment Setup
 *To be defined*
