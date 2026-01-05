@@ -7,10 +7,19 @@ __pycache__/
 *.pyd
 .Python
 
+# Python virtual environment
+venv/
+env/
+ENV/
+
 # Environment variables
 .env
 .env.local
 .env.*.local
+
+# Google Service Account credentials
+service_account.json
+**/service_account.json
 
 # Build outputs
 dist/
